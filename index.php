@@ -10,6 +10,7 @@
     ini contoh tampilan file batu di GIT
     <ol>
         <li>Maulian Saputa</li>
+        <li>Sulthana putri nabila</li>
     </ol>
 </body>
 </html>
